@@ -9,8 +9,16 @@ https://unsplash.com/@takagotch/likes
 https://github.com/takagotch/unsplash
 
 #### placeholder
+http://placehold.it/150x50?text=Logo
+```
+<img src="http://placehold.it/150x50?text=Logo" alt="">
+```
 
-#
+#### imgur
+https://i.imgur.com/TRk0HFv.png
+#### iLoveimg.com
+
+
 ```
 Specific photo
 To get a specific photo, simply append its photo ID to the embed URL. You can also embed a specific size.
